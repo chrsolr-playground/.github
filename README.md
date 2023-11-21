@@ -1,3 +1,0 @@
-# Christian Soler 
-### Playground Repository
-
